@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "リヴァーサル",
+  "base_artist": "syudou",
+  "createdAt": "2025-12-23T13:44:14.989639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リヴァーサル",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/01_リヴァーサル_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リヴァーサル",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_リヴァーサル_syudou.txt"
+    }
+  ]
+}
